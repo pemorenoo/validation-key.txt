@@ -1,0 +1,26 @@
+                                                        Términos de Servicio de Maxi Servicios
+
+1. Aceptación de los Términos
+Al acceder a la aplicación Maxi Servicios, usted acepta cumplir con estos términos y con las políticas de Pi Network. Nuestra sede principal se encuentra en la Cr 15 #14-60, Mocoa, Putumayo, Colombia.  
+
+2. Descripción de los Servicios
+Maxi Servicios ofrece una plataforma para la adquisición de:  
+Licencias digitales y pines electrónicos (Netflix, Spotify, etc.).  
+Gestión de recargas de telefonía y apuestas deportivas.  
+Intermediación en servicios de corresponsal bancario y SOAT.  
+
+3. Pagos y Tasas de Cambio
+Los precios se muestran en Pesos Colombianos (COP) y su equivalente en Pi (π).  
+La tasa de cambio base utilizada es de 648.81 COP por 1 Pi, sujeta a actualizaciones del mercado.  
+Es responsabilidad del usuario verificar el monto antes de confirmar la transacción en su Pi Wallet.  
+
+
+4. Limitación de Responsabilidad
+Maxi Servicios no se hace responsable por errores en la dirección de la billetera proporcionada por el usuario o por fallos técnicos externos a nuestra aplicación en la infraestructura de Pi Network.  
+Los pines electrónicos y licencias digitales no admiten devoluciones una vez que el código ha sido generado y enviado.  
+
+5. Contacto y Soporte
+Para cualquier reclamación o soporte técnico, los usuarios pueden dirigirse a:  
+WhatsApp: 3228713422.  
+Email: ms.maxiservicios@gmail.com.  
+Dirección: Cr 15 #14-60, Mocoa, Putumayo, Colombia.

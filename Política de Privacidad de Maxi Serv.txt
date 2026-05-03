@@ -1,0 +1,21 @@
+                                                          Política de Privacidad de Maxi Servicios
+
+                                                          Última actualización: 2 de mayo de 2026
+
+En Maxi Servicios, valoramos la privacidad de nuestros usuarios en Mocoa y la red global de Pi Network. Esta política describe cómo manejamos la información dentro de nuestra aplicación móvil.  
+
+1. Información que Recopilamos
+Datos de Pi Network: A través del Pi SDK, solicitamos acceso a su nombre de usuario y dirección de billetera (wallet address) para procesar pagos de forma segura.  
+Información de Contacto: Si decide contactarnos vía WhatsApp o correo electrónico, utilizaremos su número o dirección únicamente para resolver su solicitud.  
+Transacciones: Registramos el ID de pago y el nombre del producto adquirido para garantizar la entrega del servicio digital o físico.  
+
+2. Uso de la Información
+Utilizamos sus datos para validar la autenticación mediante el sistema de inicio de sesión de Pi Network.  
+Procesamos transacciones de servicios como recargas de celular, pines de juegos y pagos de facturas.  
+No compartimos, vendemos ni alquilamos su información personal a terceros con fines publicitarios.  
+
+3. Seguridad
+Implementamos el hash de integridad fa4f8c18... para asegurar que el código de nuestra aplicación no sea alterado maliciosamente.  
+Los pagos se realizan directamente a través de la infraestructura segura de Pi Network.  
+
+Maxi Servicios

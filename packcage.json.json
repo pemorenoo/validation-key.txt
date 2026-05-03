@@ -1,0 +1,40 @@
+{
+  "name": "maxi-servicios-pi",
+  "version": "1.0.0",
+  "description": "App Maxi Servicios para Pi Browser - Soluciones que conectan en Mocoa, Putumayo",
+  "main": "index.html",
+  "keywords": [
+    "pi-network",
+    "ecommerce",
+    "colombia",
+    "maxi-servicios"
+  ],
+  "author": "Maxi Servicios",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://maxiservicios.cercia.co"
+  },
+  "dependencies": {
+    "@pinetwork-js/sdk": "^2.0.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "start": "live-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "metadata": {
+    "location": "Cr 15 #14-60, Mocoa, Putumayo, Colombia",
+    "contact": {
+      "whatsapp": "3228713422",
+      "email": "ms.maxiservicios@gmail.com"
+    },
+    "integrity_hash": "fa4f8c180dfd6e8f0d439c061fd67b6105c107f62e883cc1d1bb525cf48d904da885bb588622a7c5ff087bd5e630d9107ea8a4e6a882bfce895699e0e8fe4085",
+    "pi_config": {
+      "tasa_cambio_base": 648.81,
+      "sandbox_mode": true
+    }
+  }
+}

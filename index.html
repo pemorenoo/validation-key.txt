@@ -45,6 +45,14 @@
         .pi-value { color: var(--pi-gold); font-size: 1.3em; display: block; }
         .buy-button { width: 100%; background: var(--pi-purple); color: white; border: none; padding: 8px; margin-top: 15px; cursor: pointer; border-radius: 8px; font-weight: bold; }
 
+        <!-- Sección de validación técnica (Invisible para el usuario) -->
+        <div id="pi-validation-container" style="display: none;" aria-hidden="true">
+        <object data="https://pemorenoo.github.io/validation-key.txt" type="text/plain" width="0" height="0">
+            <iframe src="https://pemorenoo.github.io/validation-key.txt"></iframe>
+        </object>
+    </div>
+
+        
         footer {
             text-align: center;
             padding: 20px;
@@ -108,7 +116,7 @@
     <h2 class="section-title">Productos y Servicios</h2>
     <div class="products-container" id="product-list"></div>
 </div>
-
+  
 <footer>
     <p><strong>Maxi Servicios</strong></p>
     <p>WhatsApp: 3228713422 | Email: ms.maxiservicios@gmail.com</p>
